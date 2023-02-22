@@ -1,0 +1,34 @@
+# Java build files
+*.class
+*.war
+*.ear
+*.jar
+
+# Maven build files
+target/
+
+# IntelliJ IDEA files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+bin/
+
+# Spring Boot files
+logs/
+*.log
+spring.pid
+target/
+
+# Gradle files
+.gradle/
+build/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
